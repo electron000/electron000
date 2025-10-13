@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
     <font color="#00FF00">Arunjyoti Changkakoty</font>
   </h1>
@@ -9,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines= Building+Intelligent+Applications ; Bridging+AI+and+Web+Development ; Passionate+About+Clean+Code " alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Building+Intelligent+Applications;Bridging+AI+and+Web+Development;Passionate+About+Clean+Code" alt="Typing SVG">
   </a>
 </div>
 
@@ -25,14 +26,16 @@
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="10px">
+</p>
 
 ### 👋 About Me
 
-I am an innovative and detail-oriented final-year B.Tech (CSE) student with hands-on experience in Artificial Intelligence, Generative AI, and Full-Stack Development. I'm proficient in building and securing AI-integrated systems using technologies like **React.js**, **FastAPI**, **Gemini APIs**, and **LangChain**. I am passionate about leveraging AI to solve complex problems and contribute to innovative system development.
+[cite_start]I am an innovative and detail-oriented final-year B.Tech (CSE) student with hands-on experience in Artificial Intelligence, Generative AI, and Full-Stack Development[cite: 97]. [cite_start]I'm proficient in building and securing AI-integrated systems using technologies like **React.js**, **FastAPI**, **Gemini APIs**, and **LangChain**[cite: 98]. [cite_start]I am passionate about leveraging AI to solve complex problems and contribute to innovative system development[cite: 100].
 
-* 🔭 I’m currently working as a **Frontend Developer** at expLocal, converting Figma designs into responsive web interfaces.
-* 🌱 I'm passionate about ensuring AI-generated content is accurate, coherent, and culturally relevant.
+* [cite_start]🔭 I’m currently working as a **Frontend Developer** at expLocal, converting Figma designs into responsive web interfaces[cite: 119].
+* [cite_start]🌱 I'm passionate about ensuring AI-generated content is accurate, coherent, and culturally relevant[cite: 50].
 * 🤝 Open to collaborating on innovative AI and web development projects.
 * 💬 Ask me about **Generative AI**, **Full-Stack Development**, or **API Security**.
 
@@ -91,50 +94,30 @@ I am an innovative and detail-oriented final-year B.Tech (CSE) student with hand
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="10px">
+</p>
 
-### Experience
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=electron000&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
-**Frontend Developer** | expLocal | *Remote*
-*(Oct 2025 - Dec 2025)*
-* Developing a responsive travel platform by converting Figma designs using TypeScript and SCSS.
-
-**AI Engineer & Full-Stack Developer** | Eskillveda Edtech Private Limited | *Remote*
-*(June 2025 - Aug 2025)*
-* Integrated a React.js frontend with a FastAPI backend for production deployment.
-* Built an AI Resume Summary Generation feature using Gemini APIs via LangChain.
-* Secured the application with PyJWT authentication, input sanitization, and token handling.
-* Redesigned the Blogs UI with role-based features, editing tools, and pagination.
-
-**Industrial Trainee** | ONGC - Assam Asset | *On-site*
-*(July 2025 - July 2025)*
-* Developed the MAINSYS contract management system as a full-stack desktop application.
-* Worked with VoIP (Avaya), SCADA, satellite communication systems, and studied network redundancy.
-
----
-
-### 🚀 Projects
-
-**AI Learn Bridge - Edtech Platform**
-* Built an AI-powered Resume Builder with auto-summary generation using Gemini APIs and LangChain.
-* Implemented secure, JWT-based user authentication.
-* *Tech Stack:* React.js, FastAPI, Gemini API, LangChain, PyJWT.
-
-**MAINSYS - Management Information System**
-* Developed a contract management system with live table editing, smart filters, and data export options.
-* Packaged the application into an offline desktop app using Electron & PyInstaller.
-* *Tech Stack:* React.js, Flask, SQLite.
-
-**CodeVerse - MERN Stack Platform**
-* Designed a Leaderboard UI with advanced filtering and search options.
-* Contributed to responsive dashboards and user profiles within an Agile workflow.
-* *Tech Stack:* MERN (MongoDB, Express, React, Node.js).
-
----
-
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=electron000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Arunjyoti's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=electron000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=electron000&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=electron000&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="10px">
+</p>
