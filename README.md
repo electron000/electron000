@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNndXF5bnl6dmt6ZnNqcWVvMWZ0bTBtd2k5ZjU0bzE0bjc5MDI4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY2E/giphy.gif" width="100px" />
   <h1>
     <font color="#00FF00">Arunjyoti Changkakoty</font>
   </h1>
@@ -10,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Building+Intelligent+Applications;Bridging+AI+and+Web+Development;Passionate+About+Clean+Code" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines= Building+Intelligent+Applications ; Bridging+AI+and+Web+Development ; Passionate+About+Clean+Code " alt="Typing SVG">
   </a>
 </div>
 
@@ -50,28 +49,43 @@ I am an innovative and detail-oriented final-year B.Tech (CSE) student with hand
   <tr>
     <td align="center">
       <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js" /></a>
+      &nbsp;&nbsp;
       <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
+      &nbsp;&nbsp;
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>
-      <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" /></a>
+      &nbsp;&nbsp;
       <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SCSS" /></a>
+      &nbsp;&nbsp;
       <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /></a>
+      &nbsp;&nbsp;
       <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></a>
     </td>
     <td align="center">
       <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
+      &nbsp;&nbsp;
       <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" /></a>
+      &nbsp;&nbsp;
       <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /></a>
+      &nbsp;&nbsp;
       <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a>
+      &nbsp;&nbsp;
       <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" /></a>
+      &nbsp;&nbsp;
       <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" /></a>
+      &nbsp;&nbsp;
       <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
     </td>
     <td align="center">
       <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/libs/langchain/langchain/smith/public/logo.png" width="40" height="40" alt="LangChain" /></a>
+      &nbsp;&nbsp;
       <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
+      &nbsp;&nbsp;
       <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a>
+      &nbsp;&nbsp;
       <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40" height="40" alt="HuggingFace" /></a>
+      &nbsp;&nbsp;
       <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /></a>
+      &nbsp;&nbsp;
       <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" /></a>
     </td>
   </tr>
@@ -121,6 +135,6 @@ I am an innovative and detail-oriented final-year B.Tech (CSE) student with hand
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=electron000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Arunjyoti's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=electron000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Arunjyoti's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=electron000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
