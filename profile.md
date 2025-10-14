@@ -64,8 +64,6 @@
 &nbsp;&nbsp;
 <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /></a>
 &nbsp;&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a>
-&nbsp;&nbsp;
 <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /></a>
 </td>
 <td align="center">
