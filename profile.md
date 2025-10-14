@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Building+Intelligent+Applications;Bridging+AI+and+Web+Development;Passionate+About+Clean+Code" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Bridging+AI+and+Web+Development;" alt="Typing SVG">
 </a>
 </div>
 
@@ -30,8 +30,7 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="10px">
 </p>
 
-👋 About Me
-I am an innovative and detail-oriented final-year B.Tech (CSE) student with hands-on experience in Artificial Intelligence, Generative AI, and Full-Stack Development. I'm proficient in building and securing AI-integrated systems using technologies like React.js, FastAPI, Gemini APIs, and LangChain. I am passionate about leveraging AI to solve complex problems and contribute to innovative system development.
+👋 I am an innovative and detail-oriented final-year B.Tech (CSE) student with hands-on experience in Artificial Intelligence, Generative AI, and Full-Stack Development. I'm proficient in building and securing AI-integrated systems using technologies like React.js, FastAPI, Gemini APIs, and LangChain. I am passionate about leveraging AI to solve complex problems and contribute to innovative system development.
 
 🔭 I’m currently working as a Frontend Developer at expLocal, converting Figma designs into responsive web interfaces.
 
