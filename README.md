@@ -57,10 +57,6 @@ I am an innovative and detail-oriented final-year B.Tech (CSE) student with hand
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>
 &nbsp;&nbsp;
 <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SCSS" /></a>
-&nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /></a>
-&nbsp;&nbsp;
-<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></a>
 </td>
 <td align="center">
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
@@ -97,24 +93,16 @@ I am an innovative and detail-oriented final-year B.Tech (CSE) student with hand
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="10px">
 </p>
 
-🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=electron000&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 📊 My GitHub Stats & Activity
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=electron000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Arunjyoti's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=electron000&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=electron000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=electron000&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=electron000&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
-</p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="10px">
