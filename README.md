@@ -32,10 +32,10 @@
 
 ### 👋 About Me
 
-[cite_start]I am an innovative and detail-oriented final-year B.Tech (CSE) student with hands-on experience in Artificial Intelligence, Generative AI, and Full-Stack Development[cite: 97]. [cite_start]I'm proficient in building and securing AI-integrated systems using technologies like **React.js**, **FastAPI**, **Gemini APIs**, and **LangChain**[cite: 98]. [cite_start]I am passionate about leveraging AI to solve complex problems and contribute to innovative system development[cite: 100].
+I am an innovative and detail-oriented final-year B.Tech (CSE) student with hands-on experience in Artificial Intelligence, Generative AI, and Full-Stack Development[cite: 97]. [cite_start]I'm proficient in building and securing AI-integrated systems using technologies like **React.js**, **FastAPI**, **Gemini APIs**, and **LangChain**[cite: 98]. [cite_start]I am passionate about leveraging AI to solve complex problems and contribute to innovative system development[cite: 100].
 
-* [cite_start]🔭 I’m currently working as a **Frontend Developer** at expLocal, converting Figma designs into responsive web interfaces[cite: 119].
-* [cite_start]🌱 I'm passionate about ensuring AI-generated content is accurate, coherent, and culturally relevant[cite: 50].
+* 🔭 I’m currently working as a **Frontend Developer** at expLocal, converting Figma designs into responsive web interfaces[cite: 119].
+* 🌱 I'm passionate about ensuring AI-generated content is accurate, coherent, and culturally relevant[cite: 50].
 * 🤝 Open to collaborating on innovative AI and web development projects.
 * 💬 Ask me about **Generative AI**, **Full-Stack Development**, or **API Security**.
 
