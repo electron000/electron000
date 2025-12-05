@@ -37,19 +37,19 @@ I am a final-year Computer Science student and an **AI Engineer** specializing i
 
 ### 🚀 Featured Projects
 
-#### ⚖️ [LegalMate - AI-Powered Legal Platform](#)
+#### ⚖️ [LegalMate - AI-Powered Legal Platform](http://ai-legalmate.vercel.app/)
 *A full-stack legal tech platform designed for Indian citizens and practitioners.*
 * **Architecture:** Microservices utilizing **FastAPI** (Backend) and **React.js** (Frontend).
 * **AI Engine:** Features two **RAG-based agents** powered by **Google Gemini** & **ChromaDB** for legal research and document analysis.
 * **Key Tech:** LangChain, Tavily Web Search, Docker.
 
-#### 📊 [MAINSYS - Enterprise MIS](#)
+#### 📊 [MAINSYS - Enterprise MIS](http://mainsys.vercel.app/)
 *Developed during internship at **ONGC (Oil and Natural Gas Corporation)**.*
 * **Function:** A desktop management system for tracking VoIP, SCADA, and network redundancy data.
 * **Tech:** Packaged as an offline app using **Electron** & **PyInstaller** with a **Flask** backend and **SQLite** database.
 * **Impact:** Enabled live table editing, smart filtering, and automated data exports.
 
-#### 🎓 [Autonomous AI Tutor Orchestrator](#)
+#### 🎓 [Autonomous AI Tutor Orchestrator](https://github.com/electron000/autonomous_tutor_orchestrator)
 * **Architecture:** A hybrid AI agent using **LangGraph** for multi-step reasoning.
 * **Features:** Connects AI tutors with educational APIs to provide personalized learning paths.
 
